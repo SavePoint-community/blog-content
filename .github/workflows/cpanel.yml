@@ -13,13 +13,11 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    container:
-      image: mehdi2020/savepoint:latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
       # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: ./build.sh ${{ secrets.user }} ${{ secrets.pass }}
+      - name: Build script
+        run: docker run --name savepoint -it mehdi2020/savepoint ./build.sh ${{ secrets.user }} ${{ secrets.pass }}
 

@@ -1,10 +1,10 @@
 ---
 author: Souhil Zaida
 title: Data Warehouse
-date: 2021-07-14
+date: 2022-01-08
 description: Why we need data warehouse
 math: false
-thumbnail: https://cdn.hashnode.com/res/hashnode/image/upload/v1641641507119/6NxNJhO7S.png?w=1600&h=840&
+thumbnail: https://cdn.hashnode.com/res/hashnode/image/upload/v1641641507119/6NxNJhO7S.png?w=1600&h=840
 ---
 
 # Why we need data warehouse

@@ -6,6 +6,7 @@ date: 2022-02-14
 description: Custom dwm build for ubuntu server minimal install
 math: false
 thumbnail: https://hashnode.com/post/make-your-custom-linux-distribution-ckznar3ax07g2o2s183dv7aw6
+---
 
 # Creating your own custom distro 
 

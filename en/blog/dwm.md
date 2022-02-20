@@ -8,15 +8,6 @@ thumbnail: https://hashnode.com/post/make-your-custom-linux-distribution-ckznar3
 ---
 
 
----
-author: Souhil Zaida
-title: Data Warehouse
-date: 2022-01-08
-description: Why we need data warehouse
-math: false
-thumbnail: https://cdn.hashnode.com/res/hashnode/image/upload/v1641641507119/6NxNJhO7S.png?w=1600&h=840
----
-
 # Creating your own custom distro 
 
 
